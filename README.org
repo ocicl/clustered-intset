@@ -1,0 +1,10 @@
+* clustered-intset
+
+Integer set implementation suitable for large and/or clustered values
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dtenny/clustered-intset.git   |
+| commit  | 0e97189  |
+| systems | clustered-intset |
+|---------+-------------------------------------------|
+
